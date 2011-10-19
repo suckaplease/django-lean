@@ -1,0 +1,4 @@
+*.pyc
+reports
+celery.log
+local_settings.py
